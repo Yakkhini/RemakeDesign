@@ -5,9 +5,11 @@
 - *逻辑学部分*
     - [楔子](/02-logicpart/01-intro)
     - [最小核心](/02-logicpart/02-logicore)
+    - [逻辑推断](/02-logicpart/03-logicinfer)
 
 - *其他*
     - [Mozilla宣言](mozilla-manifesto)
+    - [共产党宣言](communist-manifesto)
 
 **Links**
 - [![Weibo](https://raw.githubusercontent.com/Yakkhini/basic-book/main/docs/_media/logo/weibo.svg)@电巷](//weibo.com/Tozilla)
