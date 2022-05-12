@@ -5,7 +5,8 @@
 - *逻辑学部分*
     - [楔子](/02-logicpart/01-intro)
     - [最小核心](/02-logicpart/02-logicore)
-    - [逻辑推断](/02-logicpart/03-logicinfer)
+    - [逻辑定义](/02-logicpart/03-logicdefine)
+    - [逻辑推断](/02-logicpart/04-logicinfer)
 
 - *其他*
     - [一九九九](1999)
