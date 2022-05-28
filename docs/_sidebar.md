@@ -2,11 +2,23 @@
     - [首页](/)
     - [前言](01-preface)
 
-- *逻辑学部分*
+- *逻辑部分*
     - [楔子](/02-logicpart/01-intro)
     - [最小核心](/02-logicpart/02-logicore)
     - [逻辑定义](/02-logicpart/03-logicdefine)
     - [逻辑推断](/02-logicpart/04-logicinfer)
+
+- *心理部分*
+    - [楔子](/03-psychologypart/01-goal)
+
+- *伦理部分*
+    - [楔子](/04-ethicspart/01-intro)
+
+- *组织部分*
+    - [楔子](/05-politicpart/01-intro)
+
+- *再造*
+    - [楔子](/06-rebuild/01-intro)
 
 - *其他*
     - [一九九九](1999)
