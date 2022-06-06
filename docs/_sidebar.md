@@ -22,7 +22,7 @@
 
 - *其他*
     - [一九九九](1999)
-    - [Mozilla宣言](mozilla-manifesto)
+    - [Mozilla 宣言](mozilla-manifesto)
     - [共产党宣言](communist-manifesto)
 
 **Links**
