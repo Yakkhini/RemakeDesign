@@ -9,7 +9,7 @@
     - [逻辑推断](/02-logicpart/04-logicinfer)
 
 - *心理部分*
-    - [楔子](/03-psychologypart/01-goal)
+    - [楔子](/03-psychologypart/01-intro)
 
 - *伦理部分*
     - [楔子](/04-ethicspart/01-intro)
