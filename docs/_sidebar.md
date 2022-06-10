@@ -4,7 +4,7 @@
 
 - *逻辑部分*
     - [楔子](/02-logicpart/01-intro)
-    - [最小核心](/02-logicpart/02-logicore)
+    - [逻辑图式](/02-logicpart/02-logicshape)
     - [逻辑定义](/02-logicpart/03-logicdefine)
     - [逻辑推断](/02-logicpart/04-logicinfer)
 
